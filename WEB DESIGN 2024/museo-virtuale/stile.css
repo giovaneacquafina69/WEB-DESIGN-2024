@@ -1,0 +1,38 @@
+/* Impostazioni di base per il testo */
+body {
+    font-family: Arial, sans-serif; 
+    font-size: 16px; 
+    color: #333; 
+}
+
+h1, h2, h3 {
+    font-family: "Times New Roman", serif; 
+    font-size: 24px; 
+    color: #007bff; 
+}
+
+p {
+    font-size: 18px; 
+    color: #666; 
+}
+
+
+a {
+    color: #007bff; 
+}
+
+a:hover {
+    color: #ff4500; 
+}
+
+
+header {
+    background-color: #f8f9fa; 
+}
+
+main {
+    background-color: #ffffff; /* Colore di sfondo per il main */
+}
+
+.content {
+    background
